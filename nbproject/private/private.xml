@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/controller/ControllerMarca.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/dao/EstoqueDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/chid/SaidaChild.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/dao/CompraDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/chid/EstoqueChild.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/common/StatusBar.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/common/GridView.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/common/Operacao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/mdi/PrincipalMDI.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/controller/ControllerSaida.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/service/CommonService.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/mdi/PrincipalExec.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/chid/GenericChild.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/controller/ControllerProduto.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/dao/DepartamentoDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/mdi/PrincipalSize.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/chid/MarcaChild.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/service/SaidaService.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/controller/ControllerEstoque.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/chid/CompraChild.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/view/chid/ProdutoChild.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/dao/MarcaDao.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/entity/Departamento.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/controller/ControllerCompra.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/service/Mensagens.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/controller/IController.java</file>
+            <file>file:/C:/Estudos/JAVA/senai/BackendJavaSpringBoot/SGS/src/br/senai/sp/model/dao/Conexao.java</file>
+        </group>
+    </open-files>
+</project-private>
